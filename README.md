@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋Hi, I’m @Keyur-Ganorkar.  <br>- 👀 I’m interested in IoT, Cybersecurity, and blockchain.  <br>- 🌱 I’m currently learning development, networking, and AWS.  <br>- 💞️ I have a keen interest in cybersecurity.  <br>- ⚡ Stay connected for more updates and projects!
+- 👋Hi, I’m @Keyur-Ganorkar.  <br>- 👀 I’m interested in IoT, Cybersecurity, and blockchain.  <br>- 🌱 I’m learning development, networking, ethical hacking and AWS.  <br>- 💞️ I have a keen interest in cybersecurity.  <br>- ⚡ Stay connected for more updates and projects!
 
 
 ## 🌐 Socials:
