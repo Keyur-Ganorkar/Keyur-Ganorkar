@@ -45,12 +45,12 @@
 ##### 🔥 Current Streak & Problem Stats
 [![LeetCode Streak](https://leetcard.jacoblin.cool/Keyur_G?theme=dark&ext=heatmap&border=0)](https://leetcode.com/Keyur_G/)
 
-### 🏅 Earned Badges
+<!--### 🏅 Earned Badges
 <p align="center">
   <img src="https://your_badge_image_link_here" width="100px">
   <img src="https://your_badge_image_link_here" width="100px">
   <img src="https://your_badge_image_link_here" width="100px">
-</p>
+</p>-->
 
 ---
 
