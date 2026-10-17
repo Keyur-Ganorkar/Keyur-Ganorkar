@@ -18,7 +18,7 @@
 
 ## 💻 **Tech Stack** 🚀
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,aws,mysql,git,github,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,aws,mysql,git,github,figma,arduino,java" />
 </div>
 
 ---
