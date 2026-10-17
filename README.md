@@ -3,10 +3,10 @@
 
 ## 💫 **About Me**
 - 👋 Hi, I’m **@Keyur-Ganorkar**  
-- 👀 Passionate about **IoT, Cybersecurity & Blockchain**  
-- 🌱 Learning **Aritifical Intelligence**
+- 👀 Passionate about **AI,IoT, Cybersecurity & Blockchain**  
+- 🌱 Learning **Aritifical Intelligence at CDAC KHARGHAR**
 - 💞️ Cybersecurity Enthusiast & Ethical Hacking Explorer,Networking & AWS. 
-- ⚡ **"Code. Innovate. Secure."**   
+- ⚡ **"Code. Innovate. Secure. Share"**   
 
 ---
 
