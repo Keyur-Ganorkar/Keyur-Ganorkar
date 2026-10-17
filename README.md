@@ -4,8 +4,8 @@
 ## 💫 **About Me**
 - 👋 Hi, I’m **@Keyur-Ganorkar**  
 - 👀 Passionate about **IoT, Cybersecurity & Blockchain**  
-- 🌱 Learning **Full-Stack Development, Networking & AWS**  
-- 💞️ Cybersecurity Enthusiast & Ethical Hacking Explorer  
+- 🌱 Learning **Aritifical Intelligence**
+- 💞️ Cybersecurity Enthusiast & Ethical Hacking Explorer,Networking & AWS. 
 - ⚡ **"Code. Innovate. Secure."**   
 
 ---
@@ -18,7 +18,7 @@
 
 ## 💻 **Tech Stack** 🚀
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,js,aws,mysql,mongodb,git,github,figma,arduino" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,html,css,aws,mysql,git,github,figma,arduino" />
 </div>
 
 ---
